@@ -1,0 +1,13 @@
+{
+  "ambang": 0.34,
+  "jumlah_data_uji": 56746,
+  "accuracy": 0.99949,
+  "precision_penipuan": 0.9459,
+  "recall_penipuan": 0.7368,
+  "f1_penipuan": 0.8284,
+  "pr_auc": 0.8158,
+  "true_negative": 56647,
+  "false_positive": 4,
+  "false_negative": 25,
+  "true_positive": 70
+}

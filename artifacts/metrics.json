@@ -1,0 +1,13 @@
+{
+  "threshold": 0.3396176862313295,
+  "test_pr_auc": 0.8157736062938524,
+  "test_precision": 0.9459459459459459,
+  "test_recall": 0.7368421052631579,
+  "test_f1": 0.8284023668639053,
+  "cv_pr_auc": 0.8278213713612628,
+  "best_params": {
+    "model__min_samples_leaf": 2,
+    "model__max_features": 0.3,
+    "model__max_depth": 20
+  }
+}
